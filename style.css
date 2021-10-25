@@ -1,0 +1,50 @@
+
+body{
+    background-color: lightskyblue;
+}
+
+
+form {
+    background-color: white;
+    border-style: hidden;
+    padding: 5px;
+    text-align: center;
+    width: 200px;
+    margin-left: 25%;
+    margin-right:25%;
+    margin-top: 25%;
+    
+}
+
+button {
+    background-color: rgb(11, 78, 100);
+    color: white;
+    border-radius: 10px;
+    width: 90%;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+#name {
+    margin: 10px 10px 10px 10px;
+}
+
+#email {
+    margin: 10px 10px 10px 10px;
+
+}
+
+#password {
+    margin: 10px 10px 10px 10px;
+}
+
+#confirm {
+    margin: 10px 10px 10px 10px;
+}
+
+#images {
+    margin-top: 10px;
+}
